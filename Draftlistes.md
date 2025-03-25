@@ -540,7 +540,8 @@ print(intersection(l1,l2))
 
 4. [Union de listes](ex4.3)
 TD Exercice
-EX 1
+
+### EX 1
 ```
 def verifier(l):
   for i in range(len(l)-1):
@@ -549,7 +550,7 @@ def verifier(l):
   return True
 verifier([0, 5, 8, 8, 9])
 ```
-EX2
+### EX2
 ```
 def dep1(l):
   d=dict()
